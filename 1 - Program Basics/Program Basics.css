@@ -1,0 +1,36 @@
+<style>
+.box--special{
+font-size: 0.98em;
+}
+ .usa-section {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+    }
+#centered{
+ text-align: center;
+}
+#next{
+text-align: right;
+}
+#timelineContainer {
+    min-height: 441px;
+    height: 25.75vw;
+    max-height: 700px;
+}
+#mapContainer {
+    min-height: 400px;
+    height: 30vw;
+    max-height: 750px;
+    margin: 0 auto;
+}
+#fig3Container {
+min-height: 450px;
+height: 28vw;
+max-height: 800px;
+}
+#fig4Container {
+min-height: 500px;
+height: 29vw;
+max-height: 800px;
+}
+</style>
