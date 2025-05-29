@@ -1,0 +1,236 @@
+<style>
+.box--special{
+font-size: 0.98em;
+}
+.usa-section {
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+.hide {
+   position: absolute !important;
+   top: -9999px !important;
+}
+.btn-group {
+use margin: auto;
+text-align: center;
+  justify-content: center;
+}
+#centered{
+ text-align: center;
+}
+.centered{
+media-align: center;
+text-align: center;
+margin: 0 auto;
+}
+#next{
+text-align: right;
+}
+#pctChangeContainer{
+min-height: 400px;
+height: 28vw;
+max-height: 800px;
+max-width: 800px;
+}
+#so2Figure1{
+min-height: 450px;
+height: 30vw;
+max-height: 775px;
+max-width: 800px;
+}
+#so2Slider label {
+  position: absolute;
+  width: 35px;
+  text-align: center;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+#so2MapBarChart{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#so2MapContainer{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 800px;
+max-width: 400px;
+}
+#so2Slider {
+  width: 75%;
+margin: 0.5em auto;
+    margin-bottom: 3em;
+}
+#noxSlider label {
+  position: absolute;
+  width: 35px;
+  text-align: center;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+#noxMapBarChart{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#noxMapContainer{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#noxSlider {
+  width: 75%;
+margin: 0.5em auto;
+    margin-bottom: 3em;
+}
+#osnoxSlider label {
+  position: absolute;
+  width: 35px;
+  text-align: center;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+#osnoxMapBarChart{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#osnoxMapContainer{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#osnoxSlider {
+  width: 75%;
+margin: 0.5em auto;
+    margin-bottom: 3em;
+}
+#co2Figure1{
+min-height: 450px;
+height: 30vw;
+max-height: 775px;
+max-width: 800px;
+}
+#co2Slider label {
+  position: absolute;
+  width: 35px;
+  text-align: center;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+#co2MapBarChart{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#co2MapContainer{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#co2Slider {
+  width: 75%;
+margin: 0.5em auto;
+    margin-bottom: 3em;
+}
+#co2Figure3Top{
+  display: block;
+min-height: 325px;
+height: 23vw;
+max-height: 650px;
+max-width: 800px;
+}
+#co2Figure3Bottom{
+  display: block;
+min-height: 325px;
+height: 24vw;
+max-height: 675px;
+max-width: 800px;
+}
+#matsSlider label {
+  position: absolute;
+  width: 35px;
+  text-align: center;
+  margin-left: -20px;
+  margin-top: 20px;
+}
+#matsMapBarChart{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#matsMapContainer{
+min-height: 300px;
+height: 27vw;
+max-height: 700px;
+max-width: 400px;
+}
+#matsSlider {
+  width: 75%;
+margin: 0.5em auto;
+    margin-bottom: 3em;
+}
+#so2Figure3Top{
+  display: block;
+min-height: 325px;
+height: 23vw;
+max-height: 650px;
+max-width: 800px;
+}
+#so2Figure3Bottom{
+  display: block;
+min-height: 325px;
+height: 24vw;
+max-height: 675px;
+max-width: 800px;
+}
+#noxFigure1{
+min-height: 450px;
+height: 30vw;
+max-height: 775px;
+max-width: 800px;
+}
+#noxFigure3Top{
+  display: block;
+min-height: 325px;
+height: 23vw;
+max-height: 650px;
+max-width: 800px;
+}
+#noxFigure3Bottom{
+  display: block;
+min-height: 325px;
+height: 24vw;
+max-height: 675px;
+max-width: 800px;
+}
+#osnoxFigure1{
+min-height: 450px;
+height: 30vw;
+max-height: 775px;
+max-width: 800px;
+}
+#osnoxFigure3Top{
+  display: block;
+min-height: 325px;
+height: 23vw;
+max-height: 650px;
+max-width: 800px;
+}
+#osnoxFigure3Bottom{
+  display: block;
+min-height: 325px;
+height: 24vw;
+max-height: 675px;
+max-width: 800px;
+}
+</style>
