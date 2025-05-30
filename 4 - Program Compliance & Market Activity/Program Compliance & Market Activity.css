@@ -1,0 +1,51 @@
+<style>
+#next{
+text-align: right;
+}
+  .width-fit-content{
+      width: fit-content;
+  }
+  
+    .range-slider{
+        max-width: 30rem;
+        width: 100%;
+        margin: 0 auto;
+        position: relative;
+        margin-top: 2.5rem;
+    }
+
+    .ticks {
+        max-width: 30rem;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 1rem 0 .7rem;
+    }
+    .tick {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        width: 1px;
+        background: gray;
+        
+        height: 5px;
+        line-height: 5px;
+        margin-bottom: 2px;
+    }
+
+    #tooltip {
+        position: absolute;
+        top: -2.25rem;
+    }
+    #tooltip span {
+        position: absolute;
+        text-align: center;
+        display: block;
+        line-height: 1;
+        padding: 0.125rem 0.25rem;
+        color: #000000;
+        font-size: 1.25rem;
+        left: 50%;
+        transform: translate(-50%, 0);
+    }
+  </style>
