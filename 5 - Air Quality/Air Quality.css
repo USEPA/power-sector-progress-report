@@ -1,0 +1,61 @@
+<style>
+.box--special{
+font-size: 0.98em;
+}
+.usa-section {
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+.figure.is-centered {
+    margin-bottom: 0;
+}
+#centered{
+ text-align: center;
+ data-align: center;
+  justify-content: center;
+ font-size: 0.8em;
+}
+.centered{
+media-align: center;
+text-align: center;
+margin: 0 auto;
+}
+.embed-container{
+media-align: center;
+text-align: center;
+margin: 0 auto;
+}
+.usa-modal--lg .usa-modal__main{
+max-width: 50rem;
+}
+.box--multipurpose>.box__content{
+    padding: 1.1rem !important;
+}
+.figure.is-centered {
+    margin-top: 0.25rem !important;
+}
+#next{
+text-align: right;
+}
+#so2Figure1Container {
+min-height: 400px;
+height: 27vw;
+max-height: 750px;
+max-width: 800px;
+}
+#ozoneFigure2Container {
+min-height: 450px;
+height: 35vw;
+max-height: 850px;
+max-width: 800px;
+}
+#pmFigure3Container {
+min-height: 375px;
+height: 30vw;
+max-height: 800px;
+max-width: 800px;
+}
+#highcharts-plot-line-label {
+text-align: 'right';
+}
+</style>
