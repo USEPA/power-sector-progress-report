@@ -1,0 +1,41 @@
+<style>
+.box--special{
+font-size: 0.98em;
+}
+ .usa-section {
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+    }
+#centered{
+ text-align: center;
+}
+#twoColumn {
+margin-bottom: -1.5rem;
+padding-left: 0rem;
+padding-right: 0rem;
+}
+.l-grid l-grid--2-col l-column-layout{
+padding-left: 0rem;
+padding-right: 0rem;
+}
+.highcharts-a11y-proxy-button{
+width: 0px;
+}
+.muted-legend-item {
+  color: #cccccc !important;
+  font-weight: normal !important;
+  opacity: 0.2;
+}
+#none {
+  list-style: none;
+  padding-left: 0;
+}
+#next {
+ text-align: right;
+}
+ul.normal {
+  list-style-type: disc;
+  padding-left: 0;
+}
+
+</style>
