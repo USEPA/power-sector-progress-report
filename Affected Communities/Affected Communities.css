@@ -1,0 +1,53 @@
+<style>
+#experience{
+@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px)
+}
+.usa-section {
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
+#centered{
+ text-align: center;
+}
+.centered{
+media-align: center;
+text-align: center;
+margin: 0 auto;
+}
+#next{
+text-align: right;
+}
+#fig3Container {
+    max-width: 800px;
+}
+#fig3Container1 {
+    width: 35%;
+    padding: 0 10px 0 0;
+    float: left;
+}
+#fig3Container2 {
+    width: 65%;
+    padding: 0 10px 0 0;
+    float: right;
+}
+#fig4Container {
+    max-width: 800px;
+}
+@media only screen and (max-width: 600px) {
+#fig3Container1 {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+        max-width: 800px;
+    }
+#fig3Container2 {
+        width: 100%;
+        padding-bottom: 10px;
+        float: none;
+       max-width: 800px;
+    } 
+#fig4Container {
+    max-width: 800px;
+}
+}
+</style>
