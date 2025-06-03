@@ -10,7 +10,7 @@ The [Power Sector Programs Progress Report](https://www.epa.gov/power-sector/pro
 * [Atmospheric Deposition](https://www.epa.gov/power-sector/progress-report-atmospheric-deposition)
 * [Ecosystem Response](https://www.epa.gov/power-sector/progress-report-ecosystem-response)
 
-An "Affected Communities" section was also included in the 2023 report. 
+An ["Affected Communities"](https://19january2025snapshot.epa.gov/power-sector/progress-report-affected-communities/index.html) section was also included in the [2023 report](https://19january2025snapshot.epa.gov/power-sector/progress-report/index.html). 
 
 Each section contains interactive highcharts data visualizations, graphics, and/or maps. On the EPA WebCMS (Drupal) both style (CSS) and code (javascript) go into the javascript box at the bottom of the edit page. HTML goes into the body or layout section. HTML can be copied into Drupal after clicking the "<> Source" button on the WSIYWIG editor.
 
