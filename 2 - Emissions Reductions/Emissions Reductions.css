@@ -29,13 +29,13 @@ text-align: right;
 #pctChangeContainer{
 min-height: 400px;
 height: 28vw;
-max-height: 800px;
+max-height: 600px;
 max-width: 800px;
 }
 #so2Figure1{
 min-height: 450px;
 height: 30vw;
-max-height: 775px;
+max-height: 600px;
 max-width: 800px;
 }
 #so2Slider label {
@@ -48,14 +48,13 @@ max-width: 800px;
 #so2MapBarChart{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #so2MapContainer{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
-max-width: 800px;
+max-height: 600px;
 max-width: 400px;
 }
 #so2Slider {
@@ -73,13 +72,13 @@ margin: 0.5em auto;
 #noxMapBarChart{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #noxMapContainer{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #noxSlider {
@@ -97,13 +96,13 @@ margin: 0.5em auto;
 #osnoxMapBarChart{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #osnoxMapContainer{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #osnoxSlider {
@@ -113,8 +112,7 @@ margin: 0.5em auto;
 }
 #co2Figure1{
 min-height: 450px;
-height: 30vw;
-max-height: 775px;
+max-height: 600px;
 max-width: 800px;
 }
 #co2Slider label {
@@ -127,13 +125,13 @@ max-width: 800px;
 #co2MapBarChart{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #co2MapContainer{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #co2Slider {
@@ -145,14 +143,14 @@ margin: 0.5em auto;
   display: block;
 min-height: 325px;
 height: 23vw;
-max-height: 650px;
+max-height: 600px;
 max-width: 800px;
 }
 #co2Figure3Bottom{
   display: block;
 min-height: 325px;
 height: 24vw;
-max-height: 675px;
+max-height: 600px;
 max-width: 800px;
 }
 #matsSlider label {
@@ -165,13 +163,13 @@ max-width: 800px;
 #matsMapBarChart{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #matsMapContainer{
 min-height: 300px;
 height: 27vw;
-max-height: 700px;
+max-height: 600px;
 max-width: 400px;
 }
 #matsSlider {
@@ -183,54 +181,54 @@ margin: 0.5em auto;
   display: block;
 min-height: 325px;
 height: 23vw;
-max-height: 650px;
+max-height: 600px;
 max-width: 800px;
 }
 #so2Figure3Bottom{
   display: block;
 min-height: 325px;
 height: 24vw;
-max-height: 675px;
+max-height: 600px;
 max-width: 800px;
 }
 #noxFigure1{
 min-height: 450px;
 height: 30vw;
-max-height: 775px;
+max-height: 600px;
 max-width: 800px;
 }
 #noxFigure3Top{
   display: block;
 min-height: 325px;
 height: 23vw;
-max-height: 650px;
+max-height: 600px;
 max-width: 800px;
 }
 #noxFigure3Bottom{
   display: block;
 min-height: 325px;
 height: 24vw;
-max-height: 675px;
+max-height: 600px;
 max-width: 800px;
 }
 #osnoxFigure1{
 min-height: 450px;
 height: 30vw;
-max-height: 775px;
+max-height: 600px;
 max-width: 800px;
 }
 #osnoxFigure3Top{
   display: block;
 min-height: 325px;
 height: 23vw;
-max-height: 650px;
+max-height: 600px;
 max-width: 800px;
 }
 #osnoxFigure3Bottom{
   display: block;
 min-height: 325px;
 height: 24vw;
-max-height: 675px;
+max-height: 600px;
 max-width: 800px;
 }
 </style>
